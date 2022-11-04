@@ -1,0 +1,7 @@
+{
+  "name": "enviclaim-work",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
